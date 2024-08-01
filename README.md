@@ -4,7 +4,7 @@
 <h1>🔍 What I'm Working On</h1>
 <p>Currently, I'm focused on:</p>
 <ul>
-  <li><a href="[project-repo-url]">Math Formulae</a>: A collaborative math formula library, at your fingertips.🚀</li>
+  <li><a href="https://mathformulae.onrender.com">Math Formulae</a>: A collaborative math formula library, at your fingertips.🚀</li>
 </ul>
 
 <h1>🎯 My Skills</h1>
@@ -31,7 +31,7 @@
 <h1>📚 My Projects</h1>
 <p>Check out some of my notable projects:</p>
 <ul>
-  <li><a href="https://rohangiriportfolio.github.io/web/">Visit Rohan's Portfolio Website</a>: My Portfolio Website 🚀</li>
+  <li><a href="https://rohangiriportfolio.github.io/web/">Visit My Portfolio</a>: My Portfolio Website 🚀</li>
 </ul>
 
 <h1>📲 Get in Touch</h1>

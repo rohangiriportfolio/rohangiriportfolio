@@ -31,12 +31,12 @@
 <h1>📚 My Projects</h1>
 <p>Check out some of my notable projects:</p>
 <ul>
-  <li><a href="https://rohangiriportfolio.github.io/web/">[Project 1]</a>: My Portfolio Website 🚀</li>
+  <li><a href="https://rohangiriportfolio.github.io/web/">Visit Rohan's Portfolio Website</a>: My Portfolio Website 🚀</li>
 </ul>
 
 <h1>📲 Get in Touch</h1>
-<p>Email: <a href="mailto:rohangiri1884@gmail.com">[your-email]</a> 📧</p>
-<p>LinkedIn: <a href="https://www.linkedin.com/in/rohan-giri-264a44302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">[your-linkedin-profile-url]</a> 💼</p>
+<p>Email: <a href="mailto:rohangiri1884@gmail.com">Send Mail</a> 📧</p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/rohan-giri-264a44302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Visit My Profile</a> 💼</p>
 
 <!-- Lottie JSON files can be added here -->
 <div align="center">

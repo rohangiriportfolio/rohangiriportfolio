@@ -1,3 +1,12 @@
+<nav style="background-color: #333; color: #fff; padding: 1em; text-align: center;">
+  <ul style="list-style: none; margin: 0; padding: 0; display: flex; justify-content: space-between;">
+    <li style="margin-right: 20px;"><a href="#about" style="color: #fff; text-decoration: none; transition: color 0.2s ease;">About 🤔</a></li>
+    <li style="margin-right: 20px;"><a href="#status" style="color: #fff; text-decoration: none; transition: color 0.2s ease;">Status 💬</a></li>
+    <li style="margin-right: 20px;"><a href="#skills" style="color: #fff; text-decoration: none; transition: color 0.2s ease;">Skills 💻</a></li>
+    <li style="margin-right: 20px;"><a href="#projects" style="color: #fff; text-decoration: none; transition: color 0.2s ease;">Projects 📚</a></li>
+    <li><a href="#connect" style="color: #fff; text-decoration: none; transition: color 0.2s ease;">Connect 📲</a></li>
+  </ul>
+</nav>
 <h1>👋 About Me</h1>
 <p>Hi, I'm Rohan Giri! I'm passionate about building innovative projects and exploring new technologies.</p>
 

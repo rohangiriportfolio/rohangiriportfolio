@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body style="scroll-behavior: smooth;">
-	<h1>Rohan Giri's Portfolio</h1>
+	<h1>👨🏻‍💻 Rohan Giri's Portfolio</h1>
 	<h2 id="about">👋 About Me</h1>
 	<p>Hi, I'm Rohan Giri! I'm passionate about building innovative projects and exploring new technologies.</p>
 	<h2 id="status">🔍 What I'm Working On</h1>
@@ -36,14 +36,11 @@
 	<h2 id="projects">📚 My Projects</h1>
 	<p>Check out some of my notable projects:</p>
 	<ul>
-		<li><a href="https://rohangiriportfolio.github.io/web/">Visit My Website</a>: My Portfolio 🚀</li>
+		<li><a href="https://rohangiriportfolio.github.io/web/">Visit My Website</a>: A Portfolio 🚀</li>
 	</ul>
 	<h1 id="connect">📲 Get in Touch</h1>
 	<p>Email: <a href="mailto:rohangiri1884@gmail.com">Send Mail</a> 📧</p>
 	<p>LinkedIn: <a href="https://www.linkedin.com/in/rohan-giri-264a44302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Visit My Profile</a> 💼</p>
 	<!-- Lottie JSON files can be added here -->
-	<div align="center">
-		<lottie-player src="(link unavailable)" background="transparent" speed="1" style="width: 200px; height: 200px;" loop autoplay></lottie-player>
-	</div>
 </body>
 </html>

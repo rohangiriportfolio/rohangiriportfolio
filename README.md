@@ -1,5 +1,5 @@
-<nav style="display: flex; justify-content: space-between; background-color: #333; color: #fff; padding: 1em;">
-  <ul style="list-style: none; margin: 0; padding: 0; display: flex;">
+<nav style="display: flex; flex-direction: row; justify-content: space-between; background-color: #333; color: #fff; padding: 1em; width: 100%;">
+  <ul style="list-style: none; margin: 0; padding: 0; display: flex; width: 100%;">
     <li style="margin-right: 20px;"><a href="#about" style="color: #fff; text-decoration: none;">About 🤔</a></li>
     <li style="margin-right: 20px;"><a href="#status" style="color: #fff; text-decoration: none;">Status 💬</a></li>
     <li style="margin-right: 20px;"><a href="#skills" style="color: #fff; text-decoration: none;">Skills 💻</a></li>
@@ -7,6 +7,8 @@
     <li><a href="#connect" style="color: #fff; text-decoration: none;">Connect 📲</a></li>
   </ul>
 </nav>
+
+
 
 <h1 id="about">👋 About Me</h1>
 <p>Hi, I'm Rohan Giri! I'm passionate about building innovative projects and exploring new technologies.</p>

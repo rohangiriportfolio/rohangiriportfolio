@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-	<title>Rohan Giri's Portfolio</title>
+	<h1>Rohan Giri's Portfolio</h1>
 	<nav style="display: flex; background-color: #333; color: #fff; padding: 1em; width: 100%;">
 		<ul style="list-style: none; margin: 0; padding: 0; display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
 			<li style="margin-right: 20px;"><a href="#about" style="color: #fff; text-decoration: none;">About 🤔</a></li>

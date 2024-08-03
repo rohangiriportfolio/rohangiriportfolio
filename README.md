@@ -6,8 +6,8 @@
 </head>
 <body style="scroll-behavior: smooth;">
 	<h1>Rohan Giri's Portfolio</h1>
-	<nav style="display: flex; background-color: #333; color: white; padding: 1em; width: 100vw;">
-		<ul style="list-style: none; margin: 0; padding: 0; display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
+	<nav style="display: flex; background-color: #333; color: #fff; padding: 1em; width: 100vw;">
+		<ul style="list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; justify-content: space-between; width: 100%;">
 			<li style="margin-right: 20px;"><a href="#about" style="color: #fff; text-decoration: none;">About 🤔</a></li>
 			<li style="margin-right: 20px;"><a href="#status" style="color: #fff; text-decoration: none;">Status 💬</a></li>
 			<li style="margin-right: 20px;"><a href="#skills" style="color: #fff; text-decoration: none;">Skills 💻</a></li>
